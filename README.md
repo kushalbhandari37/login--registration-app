@@ -35,7 +35,7 @@ Hints: Use material design for the [ui](https://material-ui.com/) and feel free 
 - Add email and password field in the login form with field validations.
 - On successful login the user will be greeted with welcome message and navigated to the authenticated page.
 
-### [3] Deploy to netlify (--(Completed)--)
+### [3] Deploy to netlify (--(Completed)--)  (--Note: Only the app is running on heroku. The API server URL is setup on the localhost. So, please run the api server on localhost)
 
 - Deploy your app to netlify/heroku
 
